@@ -27,7 +27,7 @@ font-family: 'Poppins','sans-serif';
     padding: 0.5rem 3rem;
     text-align: center;
 }
-
+/* tic tac toe class styling */
 .tic-tac-toe{
     width: 90%;
     max-width:  20rem;
